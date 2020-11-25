@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">first App</string>
+    <string name="no_of_inccorect_attempts">No of inccorect attempts:</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="no_of_attempets">No Of Attempets</string>
+</resources>
